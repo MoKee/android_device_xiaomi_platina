@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1553885220 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_device_xiaomi_platina\nnonce 1553885219-033D97C8AF1CB68C9AC8224CA9ABA60BA47ABC4C\n\n0000000000000000000000000000000000000000 8f2a012df5634f6249831da96834fff4b866105b refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJcnmgkAAoJEPIi9OYuzSUxIHgIAMFaF7qhUTkklkPc46iTXF7i\nrWst5Nz9JZqAb34MnzNuUnNGnHGBlkAq5gErLaq/zJgHD4i/epMFnVLyIg+1YzMK\njWnbT+o++L6bDTfLovV48ndUs+8besn0WFmnGa8oqcZort6/P73vaMOjZ3UPpoam\n0k2hJQnnJnRTgk/oyujZlFOTSvvOEScH9lYyNB1ihq8P4cU+RDxa+wSrNhBs+qqk\nJi9PREcgtOssKzvivkfPFa7EfQan9iljEp6obElsuv/D/p0Z6YqeqJQODTaYd5JU\n+1fae/0G/YXrpHXOHATi+GECymIxOKN9Wb6B7Ci08N/XkVNTiMSai4RxAXdp5aI\u003d\n\u003dtwCV\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
