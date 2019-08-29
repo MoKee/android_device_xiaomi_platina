@@ -448,4 +448,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.mokee.maintainer=glory
+    ro.mk.maintainer=glory
