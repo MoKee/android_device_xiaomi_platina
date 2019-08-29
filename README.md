@@ -14,7 +14,7 @@ And any others I have missed:P
 
 ----------------------------------------------------------------------
 
-Copyright 2019 - The Mokee Project
+Copyright 2019 - The MoKee Open Source Project
 
 mkp device tree for Xiaomi MI 8 Lite
 
